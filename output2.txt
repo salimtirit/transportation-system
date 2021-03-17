@@ -1,0 +1,6 @@
+Location 0: (0.0, 0.0)
+Passenger 1: 123.53
+Location 1: (80.0, 60.0)
+Passenger 2: 234.00
+Location 2: (340.0, 480.0)
+Passenger 0: 286.60
